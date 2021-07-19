@@ -1,7 +1,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Dashboard V.1 | Kiaalap - Kiaalap Admin Template</title>
+    <title>Basic Form Element | Kiaalap - Kiaalap Admin Template</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- favicon
@@ -16,20 +16,9 @@
     <!-- Bootstrap CSS
 		============================================ -->
     <link rel="stylesheet" href="/asset/css/font-awesome.min.css">
-    <!-- owl.carousel CSS
+    <!-- Font awesome 5.15 CSS
 		============================================ -->
-    <link rel="stylesheet" href="/asset/cssowl.carousel.css">
-    <link rel="stylesheet" href="/asset/css/owl.theme.css">
-    <link rel="stylesheet" href="/asset/css/owl.transitions.css">
-    <!-- animate CSS
-		============================================ -->
-    <link rel="stylesheet" href="/asset/css/animate.css">
-    <!-- normalize CSS
-		============================================ -->
-    <link rel="stylesheet" href="/asset/css/normalize.css">
-    <!-- meanmenu icon CSS
-		============================================ -->
-    <link rel="stylesheet" href="/asset/css/meanmenu.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
     <!-- x-editor CSS
 		============================================ -->
@@ -41,25 +30,32 @@
 		============================================ -->
     <link rel="stylesheet" href="/asset/css/data-table/bootstrap-table.css">
     <link rel="stylesheet" href="/asset/css/data-table/bootstrap-editable.css">
-
+    <!-- owl.carousel CSS
+		============================================ -->
+    <link rel="stylesheet" href="/asset/css/owl.carousel.css">
+    <link rel="stylesheet" href="/asset/css/owl.theme.css">
+    <link rel="stylesheet" href="/asset/css/owl.transitions.css">
+    <!-- animate CSS
+		============================================ -->
+    <link rel="stylesheet" href="/asset/css/animate.css">
+    <!-- normalize CSS
+		============================================ -->
+    <link rel="stylesheet" href="/asset/css/normalize.css">
+    <!-- meanmenu icon CSS
+		============================================ -->
+    <link rel="stylesheet" href="/asset/css/meanmenu.min.css">
     <!-- main CSS
 		============================================ -->
     <link rel="stylesheet" href="/asset/css/main.css">
     <!-- educate icon CSS
 		============================================ -->
     <link rel="stylesheet" href="/asset/css/educate-custon-icon.css">
-    <!-- morris/asset//asset/js/ CSS
+    <!-- morrisjs CSS
 		============================================ -->
-    <link rel="stylesheet" href="/asset/css/morris/asset//asset/js//morris.css">
+    <link rel="stylesheet" href="/asset/css/morrisjs/morris.css">
     <!-- mCustomScrollbar CSS
 		============================================ -->
     <link rel="stylesheet" href="/asset/css/scrollbar/jquery.mCustomScrollbar.min.css">
-    <!-- modals CSS
-		============================================ -->
-    <link rel="stylesheet" href="/asset/css/modals.css">
-    <!-- forms CSS
-		============================================ -->
-    <link rel="stylesheet" href="/asset/css/form/all-type-forms.css">
     <!-- metisMenu CSS
 		============================================ -->
     <link rel="stylesheet" href="/asset/css/metisMenu/metisMenu.min.css">
@@ -68,13 +64,22 @@
 		============================================ -->
     <link rel="stylesheet" href="/asset/css/calendar/fullcalendar.min.css">
     <link rel="stylesheet" href="/asset/css/calendar/fullcalendar.print.min.css">
+    <!-- datapicker CSS
+       ============================================ -->
+    <link rel="stylesheet" href="/asset/css/datapicker/datepicker3.css">
+    <!-- modals CSS
+		============================================ -->
+    <link rel="stylesheet" href="/asset/css/modals.css">
+    <!-- forms CSS
+		============================================ -->
+    <link rel="stylesheet" href="/asset/css/form/all-type-forms.css">
     <!-- style CSS
 		============================================ -->
     <link rel="stylesheet" href="/asset/css/style.css">
     <!-- responsive CSS
 		============================================ -->
     <link rel="stylesheet" href="/asset/css/responsive.css">
-    <!-- modernizr /asset//asset/js/
+    <!-- modernizr JS
 		============================================ -->
-    <script src="/asset//asset/js//vendor/modernizr-2.8.3.min./asset//asset/js/"></script>
+    <script src="js/vendor/modernizr-2.8.3.min.js"></script>
 </head>

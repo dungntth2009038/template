@@ -8,6 +8,11 @@
     <title>Document</title>
 </head>
 <body>
-
+<h1>Query String</h1>
+<ul>
+    <li>Email : {{$email}}</li>
+    <li>FirstName : {{$firstname}}</li>
+    <li>LastName : {{$lastname}}</li>
+</ul>
 </body>
 </html>

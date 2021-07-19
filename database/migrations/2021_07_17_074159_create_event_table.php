@@ -1,10 +1,11 @@
 <?php
 
+use App\Enums\EventStatus;
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateUsersTable extends Migration
+class CreateEventsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -15,12 +16,15 @@ class CreateUsersTable extends Migration
     {
         Schema::create('events', function (Blueprint $table) {
             $table->id();
-            $table->string('name');
-            $table->string('email')->unique();
-            $table->timestamp('email_verified_at')->nullable();
-            $table->string('password');
-            $table->rememberToken();
+            $table->string('eventName');
+            $table->string('bandNames');
+            $table->date('startDate');
+            $table->date('endDate');
+            $table->string('portfolio');
+            $table->double('ticketPrice');
+            $table->integer('status')->default(EventStatus::UP_COMING);
             $table->timestamps();
+            $table->softDeletes();
         });
     }
 

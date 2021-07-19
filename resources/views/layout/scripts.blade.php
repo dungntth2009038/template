@@ -1,5 +1,7 @@
 <!-- jquery
-       ============================================ -->
+    ============================================ -->
+<!-- jquery
+      ============================================ -->
 <script src="/asset/js/vendor/jquery-1.12.4.min.js"></script>
 <!-- bootstrap JS
     ============================================ -->
@@ -26,9 +28,8 @@
     ============================================ -->
 <script src="/asset/js/scrollbar/jquery.mCustomScrollbar.concat.min.js"></script>
 <script src="/asset/js/scrollbar/mCustomScrollbar-active.js"></script>
-
 <!-- data table JS
-		============================================ -->
+       ============================================ -->
 <script src="/asset/js/data-table/bootstrap-table.js"></script>
 <script src="/asset/js/data-table/tableExport.js"></script>
 <script src="/asset/js/data-table/data-table-active.js"></script>
@@ -47,9 +48,13 @@
 <script src="/asset/js/editable/bootstrap-editable.js"></script>
 <script src="/asset/js/editable/xediable-active.js"></script>
 <!-- Chart JS
-    ============================================ -->
+       ============================================ -->
 <script src="/asset/js/chart/jquery.peity.min.js"></script>
 <script src="/asset/js/peity/peity-active.js"></script>
+<!-- datapicker JS
+		============================================ -->
+<script src="/asset/js/datapicker/bootstrap-datepicker.js"></script>
+<script src="/asset/js/datapicker/datepicker-active.js"></script>
 <!-- metisMenu JS
     ============================================ -->
 <script src="/asset/js/metisMenu/metisMenu.min.js"></script>
@@ -67,5 +72,3 @@
 <!-- main JS
     ============================================ -->
 <script src="/asset/js/main.js"></script>
-
-

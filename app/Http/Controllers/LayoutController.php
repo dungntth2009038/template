@@ -7,11 +7,11 @@ use Illuminate\Http\Request;
 class LayoutController extends Controller
 {
     public function create(){
-        return view('users/form');
+        return view('events/form');
     }
 
     public function list(){
-        return view('users/list');
+        return view('events/list');
     }
 
     public function layoutmaster(){
